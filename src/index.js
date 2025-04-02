@@ -1,3 +1,4 @@
+// VERSIÓN HABITUAL DE PIEDRA-PAPEL-TIJERA
 const jugador1 = prompt("Escoge entre: Piedra / Papel / Tijeras");
 const jugador2 = prompt("Escoge entre: Piedra / Papel / Tijeras");
 
